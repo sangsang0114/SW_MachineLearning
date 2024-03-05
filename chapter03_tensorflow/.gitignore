@@ -1,3 +1,7 @@
 .ipynb_checkpoints/*
 data/
 etc/
+mymodel/
+test/
+CorpusFile/
+w2v
